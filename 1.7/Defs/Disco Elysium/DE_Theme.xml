@@ -1,0 +1,41 @@
+<Defs>
+    <MusicExpanded.ThemeDef>
+        <defName>ME_Disco_Elysium</defName>
+        <label>Music Expanded: Disco Elysium</label>
+		<iconPath>UI/Icons/Disco Elysium</iconPath>
+        <description>Since Rimworld doesn't have a mod for the music from Disco Elysium I decided to correct that problem. However I will release this as both a regular music mod and as a pack for Music Expanded Framework so that everyone can enjoy the majesty of the band Sea Power. Also fuck ZA/UM and pirate Disco Elysium because they fucked over the creators and stole their company. No Combat tracks because after a night of heavy drinking and social fights you lost your gun.</description>
+		<tracks>			
+			<li>ME_Disco_Elysium_Advesperascit</li>
+			<li>ME_Disco_Elysium_Burn_Baby_Burn</li>
+			<li>ME_Disco_Elysium_Detective_Arriving_on_the_Scene</li>
+			<li>ME_Disco_Elysium_Ecstatic_Vibrations_Totally_Transcendent</li>
+			<li>ME_Disco_Elysium_Hope_in_Work_and_Joy_in_Leisure</li>
+			<li>ME_Disco_Elysium_Ignus_Nilsen_Waltz</li>
+			<li>ME_Disco_Elysium_Instrument_of_Surrender</li>			
+			<li>ME_Disco_Elysium_Krenel_Downwell_Somatosensor</li>
+			<li>ME_Disco_Elysium_La_Revacholiere</li>
+			<li>ME_Disco_Elysium_Live_With_Me</li>
+			<li>ME_Disco_Elysium_Martinaise_Terminal_B</li>
+			<li>ME_Disco_Elysium_Miss_Oranje_Disco_Dancer</li>
+			<li>ME_Disco_Elysium_Polyhedrons</li>
+			<li>ME_Disco_Elysium_Precinct_41_Major_Crimes_Unit</li>
+			<li>ME_Disco_Elysium_Rue_de_Saint_Gislane_32B</li>
+			<li>ME_Disco_Elysium_Saint_Brune_1147</li>
+			<li>ME_Disco_Elysium_The_Cryptozoologists</li>
+			<li>ME_Disco_Elysium_The_Doomed_Commercial_Area</li>
+			<li>ME_Disco_Elysium_The_Field_Autopsy</li>
+			<li>ME_Disco_Elysium_The_Insulindian_Miracle</li>
+			<li>ME_Disco_Elysium_Tiger_King</li>
+			<li>ME_Disco_Elysium_We_Are_Not_Checkmated</li>
+			<li>ME_Disco_Elysium_Whirling_In_Rags_12PM</li>
+			<li>ME_Disco_Elysium_Whirling_In_Rags_8PM</li>
+			<li>ME_Disco_Elysium_Whirling_In_Rags_8AM</li>
+			<li>ME_Disco_Elysium_Your_Body_Betrays_Your_Degeneracy</li>
+			<li>ME_Disco_Elysium_ZAUM</li>	
+
+			<li>ME_Disco_Elysium_Disco_Elysium_1</li>
+			<li>ME_Disco_Elysium_Disco_Elysium_2</li>
+			<li>ME_Disco_Elysium_Off_We_Go_Into_The_Wild_Pale_Yonder</li>			
+		</tracks>
+    </MusicExpanded.ThemeDef>
+</Defs>

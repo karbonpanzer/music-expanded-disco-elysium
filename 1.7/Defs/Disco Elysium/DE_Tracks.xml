@@ -1,0 +1,156 @@
+<Defs>
+	<MusicExpanded.TrackDef>
+		<label>Disco Elysium- Advesperascit</label>
+		<defName>ME_Disco_Elysium_Advesperascit</defName>
+		<clipPath>MusicExpanded/Disco Elysium/Disco Elysium- Advesperascit</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Disco Elysium- Burn, Baby, Burn</label>
+		<defName>ME_Disco_Elysium_Burn_Baby_Burn</defName>
+		<clipPath>MusicExpanded/Disco Elysium/Disco Elysium- Burn, Baby, Burn</clipPath>
+	</MusicExpanded.TrackDef>
+		<MusicExpanded.TrackDef>
+		<label>Disco Elysium- Detective Arriving on the Scene</label>
+		<defName>ME_Disco_Elysium_Detective_Arriving_on_the_Scene</defName>
+		<clipPath>MusicExpanded/Disco Elysium/Disco Elysium- Detective Arriving on the Scene</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Disco Elysium- Ecstatic Vibrations, Totally Transcendent</label>
+		<defName>ME_Disco_Elysium_Ecstatic_Vibrations_Totally_Transcendent</defName>
+		<clipPath>MusicExpanded/Disco Elysium/Disco Elysium- Ecstatic Vibrations, Totally Transcendent</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Disco Elysium- Hope in Work and Joy in Leisure</label>
+		<defName>ME_Disco_Elysium_Hope_in_Work_and_Joy_in_Leisure</defName>
+		<clipPath>MusicExpanded/Disco Elysium/Disco Elysium- Hope in Work and Joy in Leisure</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Disco Elysium- Ignus Nilsen Waltz</label>
+		<defName>ME_Disco_Elysium_Ignus_Nilsen_Waltz</defName>
+		<clipPath>MusicExpanded/Disco Elysium/Disco Elysium- Ignus Nilsen Waltz</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Disco Elysium- Instrument of Surrender</label>
+		<defName>ME_Disco_Elysium_Instrument_of_Surrender</defName>
+		<clipPath>MusicExpanded/Disco Elysium/Disco Elysium- Instrument of Surrender</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Disco Elysium- Krenel, Downwell, Somatosensor</label>
+		<defName>ME_Disco_Elysium_Krenel_Downwell_Somatosensor</defName>
+		<clipPath>MusicExpanded/Disco Elysium/Disco Elysium- Krenel, Downwell, Somatosensor</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Disco Elysium- La Revacholiere</label>
+		<defName>ME_Disco_Elysium_La_Revacholiere</defName>
+		<clipPath>MusicExpanded/Disco Elysium/Disco Elysium- La Revacholiere</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Disco Elysium- Live With Me</label>
+		<defName>ME_Disco_Elysium_Live_With_Me</defName>
+		<clipPath>MusicExpanded/Disco Elysium/Disco Elysium- Live With Me</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Disco Elysium- Martinaise, Terminal B</label>
+		<defName>ME_Disco_Elysium_Martinaise_Terminal_B</defName>
+		<clipPath>MusicExpanded/Disco Elysium/Disco Elysium- Martinaise, Terminal B</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Disco Elysium- Miss Oranje Disco Dancer</label>
+		<defName>ME_Disco_Elysium_Miss_Oranje_Disco_Dancer</defName>
+		<clipPath>MusicExpanded/Disco Elysium/Disco Elysium- Miss Oranje Disco Dancer</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Disco Elysium- Polyhedrons</label>
+		<defName>ME_Disco_Elysium_Polyhedrons</defName>
+		<clipPath>MusicExpanded/Disco Elysium/Disco Elysium- Polyhedrons</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Disco Elysium- Precinct 41 Major Crimes Unit</label>
+		<defName>ME_Disco_Elysium_Precinct_41_Major_Crimes_Unit</defName>
+		<clipPath>MusicExpanded/Disco Elysium/Disco Elysium- Precinct 41 Major Crimes Unit</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Disco Elysium- Rue de Saint-Gislaine 32B</label>
+		<defName>ME_Disco_Elysium_Rue_de_Saint_Gislane_32B</defName>
+		<clipPath>MusicExpanded/Disco Elysium/Disco Elysium- Rue de Saint-Gislaine 32B</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Disco Elysium- Saint-Brune 1147</label>
+		<defName>ME_Disco_Elysium_Saint_Brune_1147</defName>
+		<clipPath>MusicExpanded/Disco Elysium/Disco Elysium- Saint-Brune 1147</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Disco Elysium- The Cryptozoologists</label>
+		<defName>ME_Disco_Elysium_The_Cryptozoologists</defName>
+		<clipPath>MusicExpanded/Disco Elysium/Disco Elysium- The Cryptozoologists</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Disco Elysium- The Doomed Commercial Area</label>
+		<defName>ME_Disco_Elysium_The_Doomed_Commercial_Area</defName>
+		<clipPath>MusicExpanded/Disco Elysium/Disco Elysium- The Doomed Commercial Area</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Disco Elysium- The Field Autopsy</label>
+		<defName>ME_Disco_Elysium_The_Field_Autopsy</defName>
+		<clipPath>MusicExpanded/Disco Elysium/Disco Elysium- The Field Autopsy</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Disco Elysium- The Insulindian Miracle</label>
+		<defName>ME_Disco_Elysium_The_Insulindian_Miracle</defName>
+		<clipPath>MusicExpanded/Disco Elysium/Disco Elysium- The Insulindian Miracle</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Disco Elysium- Tiger King</label>
+		<defName>ME_Disco_Elysium_Tiger_King</defName>
+		<clipPath>MusicExpanded/Disco Elysium/Disco Elysium- Tiger King</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Disco Elysium- We Are Not Checkmated</label>
+		<defName>ME_Disco_Elysium_We_Are_Not_Checkmated</defName>
+		<clipPath>MusicExpanded/Disco Elysium/Disco Elysium- We Are Not Checkmated</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Disco Elysium- Whirling-In-Rags, 12 PM</label>
+		<defName>ME_Disco_Elysium_Whirling_In_Rags_12PM</defName>
+		<clipPath>MusicExpanded/Disco Elysium/Disco Elysium- Whirling-In-Rags, 12 PM</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Disco Elysium- Whirling-In-Rags, 8 PM</label>
+		<defName>ME_Disco_Elysium_Whirling_In_Rags_8PM</defName>
+		<clipPath>MusicExpanded/Disco Elysium/Disco Elysium- Whirling-In-Rags, 8 PM</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Disco Elysium- Whirling-In-Rags, 8 AM</label>
+		<defName>ME_Disco_Elysium_Whirling_In_Rags_8AM</defName>
+		<clipPath>MusicExpanded/Disco Elysium/Disco Elysium- Whirling-In-Rags, 8 AM</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Disco Elysium- Your Body Betrays Your Degeneracy</label>
+		<defName>ME_Disco_Elysium_Your_Body_Betrays_Your_Degeneracy</defName>
+		<clipPath>MusicExpanded/Disco Elysium/Disco Elysium- Your Body Betrays Your Degeneracy</clipPath>
+	</MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Disco Elysium- ZAUM</label>
+		<defName>ME_Disco_Elysium_ZAUM</defName>
+		<clipPath>MusicExpanded/Disco Elysium/Disco Elysium- ZAUM</clipPath>
+	</MusicExpanded.TrackDef>	
+	
+	<MusicExpanded.TrackDef>
+		<label>Disco Elysium- Disco Elysium, Pt. 1</label>
+		<defName>ME_Disco_Elysium_Disco_Elysium_1</defName>
+		<clipPath>MusicExpanded/Disco Elysium/Disco Elysium- Disco Elysium, Pt. 1</clipPath>
+        <cue>MainMenu</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Disco Elysium- Disco Elysium, Pt. 2</label>
+		<defName>ME_Disco_Elysium_Disco_Elysium_2</defName>
+		<clipPath>MusicExpanded/Disco Elysium/Disco Elysium- Disco Elysium, Pt. 2</clipPath>
+        <cue>MainMenu</cue>
+    </MusicExpanded.TrackDef>
+	<MusicExpanded.TrackDef>
+		<label>Disco Elysium- Off We Go Into The Wild Pale Yonder</label>
+		<defName>ME_Disco_Elysium_Off_We_Go_Into_The_Wild_Pale_Yonder</defName>
+		<clipPath>MusicExpanded/Disco Elysium/Disco Elysium- Off We Go Into The Wild Pale Yonder</clipPath>
+        <cue>Credits</cue>
+    </MusicExpanded.TrackDef>	
+</Defs>

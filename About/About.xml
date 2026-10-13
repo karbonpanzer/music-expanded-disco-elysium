@@ -17,6 +17,7 @@ Instrument of Surrender, Whirling-In-Rags, 8 AM, Detective Arriving on the Scene
 		<li>1.4</li>
 		<li>1.5</li>
 		<li>1.6</li>
+		<li>1.7</li>
 	</supportedVersions>
     <loadAfter>
         <li>musicexpanded.framework</li>
@@ -51,5 +52,12 @@ Instrument of Surrender, Whirling-In-Rags, 8 AM, Detective Arriving on the Scene
 				<downloadUrl>https://github.com/Music-Expanded/music-expanded-framework/releases/latest</downloadUrl>
 			</li>
 		</v1.6>
+		<v1.7>
+			<li>
+				<packageId>zal.mef</packageId>
+				<displayName>Music Expanded Framework</displayName>
+				<downloadUrl>https://github.com/Music-Expanded/music-expanded-framework/releases/latest</downloadUrl>
+			</li>
+		</v1.7>	
 	</modDependenciesByVersion>
 </ModMetaData>
